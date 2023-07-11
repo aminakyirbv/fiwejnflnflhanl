@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;800&display=swap');
+
+.App {
+  height: 100vh;
+  width: 100%;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.auth_section {
+  width: 100%;
+  height: 100%;
+  background: url("https://www.pixel4k.com/wp-content/uploads/2018/10/landscape-outdoor-mountains-galaxy-4k_1540143436.jpg") center / cover;
+}
+
+
+
+.chat_container {
+  width: 100%;
+  height: auto;
+  background: url("https://pixelz.cc/wp-content/uploads/2018/12/new-york-cityscape-uhd-4k-wallpaper.jpg") center / cover;
+}
+
+.css-xl71ch {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
